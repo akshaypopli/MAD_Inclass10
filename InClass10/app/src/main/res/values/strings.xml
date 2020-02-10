@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">HW04</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="edit_movie">Edit</string>
+    <string name="delete_movie">Delete Movie</string>
+    <string name="show_year">Show List By Year</string>
+    <string name="show_rating">Show List By Rating</string>
+    <string name="et_name">Name</string>
+    <string name="tv_description">Description:</string>
+    <string name="tv_genre">Genre:</string>
+    <string name="tv_rating">Rating:</string>
+    <string name="tv_rating1">0</string>
+    <string name="et_year">Year</string>
+    <string name="et_imdb">IMDB</string>
+    <string name="btn_addmovie">Add Movie</string>
+    <string name="btn_save">Save Changes</string>
+    <string name="year_title">Movies by Year</string>
+    <string name="rating_title">Movies by Rating</string>
+    <string name="movietitle1">Title:</string>
+    <string name="movietitle2" />
+    <string name="moviedescription1">Description:</string>
+    <string name="moviegenre1">Genre:</string>
+    <string name="moviegenre2" />
+    <string name="movierating1">Rating:</string>
+    <string name="movierating2" />
+    <string name="movieyear">Year:</string>
+    <string name="movieyear2" />
+    <string name="movieimdb1">IMDB:</string>
+    <string name="movieimdb2" />
+    <string name="btn_finish">Finish</string>
+    <string-array name="genre_array">
+        <item>Select</item>
+        <item>Action</item>
+        <item>Animation</item>
+        <item>Comedy</item>
+        <item>Documentary</item>
+        <item>Family</item>
+        <item>Horror</item>
+        <item>Crime</item>
+        <item>Others</item>
+    </string-array>
+</resources>
